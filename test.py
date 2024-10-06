@@ -4,7 +4,7 @@ from pandasai import Agent
 import os
 
 
-os.environ["PANDASAI_API_KEY"] = "$2a$10$AGegOm4xMbrj8FMx5hIUeeOBtk7rtKQuF/PKoHOJRNv2bmXIo32XS"
+os.environ["PANDASAI_API_KEY"] = "<API KEY HERE>"
 # Função para exibir gráfico solicitado pela IA
 
 
